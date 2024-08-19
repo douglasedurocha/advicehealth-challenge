@@ -1,0 +1,7 @@
+Flask-RESTful==0.3.10
+Flask-SQLAlchemy==3.1.1
+psycopg2-binary==2.9.9
+Flask-Migrate==4.0.7
+Flask-BasicAuth==0.2.0
+pytest
+pytest-flask
